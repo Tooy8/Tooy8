@@ -1,8 +1,7 @@
-GIF Hi! This is Roy
+Hi! This is Roy
 --
 🧑🏻‍💻 A self-taught app developer
 
-🐼 Currently working in Chengdu, China
 
 💵 Looking forward to the early realization of wealth and freedom
 
