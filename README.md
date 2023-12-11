@@ -1,4 +1,4 @@
-<center>Hi! This is Tooy8</center>
+Hi! This is Tooy8
 --
 🧑🏻‍💻 A self-taught app developer
 
