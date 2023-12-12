@@ -1,6 +1,6 @@
 Hi! This is Tooy8
 --
-🧑🏻‍💻 A self-taught app developer
+🧑🏻‍💻 A self-taught app developer 
 
 
 💵 Looking forward to the early realization of wealth and freedom
