@@ -1,4 +1,4 @@
-Hi!! This is Tooy8
+Hi! This is Tooy8
 --
 🧑🏻‍💻 A self-taught app developer 
 
